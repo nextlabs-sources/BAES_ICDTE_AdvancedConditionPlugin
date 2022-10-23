@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jar/common-framework-types.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-pf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/crypt.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jar/agent-common.jar"/>
+	<classpathentry kind="lib" path="lib/jar/agent-controlmanager.jar"/>
+	<classpathentry kind="lib" path="lib/jar/agent-ipc.jar"/>
+	<classpathentry kind="lib" path="lib/jar/app-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jar/batchdeployer.jar"/>
+	<classpathentry kind="lib" path="lib/jar/client-pf.jar"/>
+	<classpathentry kind="lib" path="lib/jar/client-security-config.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-domain-types.jar"/>
+	<classpathentry kind="lib" path="lib/jar/common-domain.jar"/>
+	<classpathentry kind="lib" path="lib/jar/policy-services.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-framework.jar"/>
+	<classpathentry kind="lib" path="lib/jar/server-shared-services.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-core-2.7.0.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-databind-2.7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
